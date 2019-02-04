@@ -20,6 +20,7 @@ body {
 
 a {
     text-decoration: none;
+    color: white;
 }
 /*--welcome--*/
 #welcome {
@@ -31,12 +32,14 @@ a {
     display: flex;
     align-items: center;
     justify-content: center;
+    color: white;
 }
 
 .welcome-box {
     background: rgba(0, 0, 0, .5);
     padding: 40px 20px;
     text-align: center;
+    color: white;
 }
 
 h1 {
@@ -45,6 +48,7 @@ h1 {
     text-transform: uppercase;
     padding: 0;
     margin: 0;
+    color: white;
     
 }
 
